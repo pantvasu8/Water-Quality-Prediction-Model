@@ -56,6 +56,7 @@ We can observe from the mentioned below bar graph that XGBoost Classifier has cl
 outperformed other methods. It has the maximum achieved accuracy i.e., 67.097967.
 
 ![image](https://user-images.githubusercontent.com/96621003/208570713-ece5acf0-32dc-4fcf-b449-167fb6440b2a.png)
+
 If we see with respect to other parameters as well then, we have the highest precision, recall, F1-score for XGBoost 
 shown below comparison with Gaussian Naïve Bayes.
 
