@@ -56,11 +56,9 @@ We can observe from the mentioned below bar graph that XGBoost Classifier has cl
 outperformed other methods. It has the maximum achieved accuracy i.e., 67.097967.
 
 ![image](https://user-images.githubusercontent.com/96621003/208570713-ece5acf0-32dc-4fcf-b449-167fb6440b2a.png)
-If we see with respect to other parameters as well then, we have the highest 
-precision, recall, F1-score for XGBoost shown below comparison with Gaussian 
-Naïve Bayes.
+If we see with respect to other parameters as well then, we have the highest precision, recall, F1-score for XGBoost 
+shown below comparison with Gaussian Naïve Bayes.
 
 ![image](https://user-images.githubusercontent.com/96621003/208571108-90a10887-e3e7-40e3-b619-82928ef94c9d.png)
 
-#### Hence, we can conclude that XGBoost classifier trained model gives the best prediction of 
-water quality 
+#### Hence, we can conclude that XGBoost classifier trained model gives the best prediction of water quality 
